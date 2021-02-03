@@ -6,5 +6,5 @@ spring:
     username: root
 env: order-dev1
 girl:
-  name: lily
-  age: 12
+  name: lily1
+  age: 121
